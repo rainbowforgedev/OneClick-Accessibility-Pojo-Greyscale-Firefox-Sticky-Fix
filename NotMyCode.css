@@ -1,0 +1,20 @@
+/* Override pojo style */  
+body.pojo-a11y-grayscale {  
+    filter: none;  
+    -webkit-filter: none;  
+    -webkit-filter: none;  
+    -moz-filter: none;  
+    -ms-filter: none;  
+    -o-filter: none;  
+    filter: none;  
+}  
+ /* Apply new filter to other elements */  
+body.pojo-a11y-grayscale *{  
+    filter: grayscale(100%);  
+    -webkit-filter: grayscale(100%);  
+    -webkit-filter: grayscale(1);  
+    -moz-filter: grayscale(100%);  
+    -ms-filter: grayscale(100%);  
+    -o-filter: grayscale(100%);  
+    filter: gray;  
+}
