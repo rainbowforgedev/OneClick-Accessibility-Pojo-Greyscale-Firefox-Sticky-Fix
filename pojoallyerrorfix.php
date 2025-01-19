@@ -24,7 +24,7 @@
 
     }
 
-This has to go into the “includes\pojo-a11y-settings.php” file at line 635, replacing what is already there.
+//This has to go into the “includes\pojo-a11y-settings.php” file at line 635, replacing what is already there.
 
-Then the notices go away. Can confirm that it works.
-credit: https://wordpress.org/support/topic/php8-2-deprecated-php-error/
+//Then the notices go away. Can confirm that it works.
+//credit: https://wordpress.org/support/topic/php8-2-deprecated-php-error/
